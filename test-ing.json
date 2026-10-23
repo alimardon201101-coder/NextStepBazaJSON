@@ -1,0 +1,1194 @@
+{
+  "english_proficiency_test": {
+    "A1": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "She ___ a teacher.",
+        "options": [
+          "am",
+          "is",
+          "be",
+          "are"
+        ],
+        "answer": "is"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Where ___ you live?",
+        "options": [
+          "are",
+          "is",
+          "does",
+          "do"
+        ],
+        "answer": "do"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "I have two ___.",
+        "options": [
+          "cats",
+          "cates",
+          "a cat",
+          "cat"
+        ],
+        "answer": "cats"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "They ___ like coffee.",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't",
+          "aren't"
+        ],
+        "answer": "don't"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What time ___ it?",
+        "options": [
+          "is",
+          "are",
+          "does",
+          "has"
+        ],
+        "answer": "is"
+      },
+      {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "This is ___ apple.",
+        "options": [
+          "an",
+          "-",
+          "the",
+          "a"
+        ],
+        "answer": "an"
+      },
+      {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "My brother is ___ than me.",
+        "options": [
+          "more tall",
+          "taller",
+          "tall",
+          "tallest"
+        ],
+        "answer": "taller"
+      },
+      {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "We go to school ___ foot.",
+        "options": [
+          "on",
+          "with",
+          "by",
+          "in"
+        ],
+        "answer": "on"
+      },
+      {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "___ is your favorite color?",
+        "options": [
+          "Who",
+          "Where",
+          "What",
+          "When"
+        ],
+        "answer": "What"
+      },
+      {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Can you ___ English?",
+        "options": [
+          "speaking",
+          "spoke",
+          "speaks",
+          "speak"
+        ],
+        "answer": "speak"
+      },
+      {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Yesterday I ___ to the park.",
+        "options": [
+          "goes",
+          "went",
+          "going",
+          "go"
+        ],
+        "answer": "went"
+      },
+      {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "There ___ many books on the table.",
+        "options": [
+          "be",
+          "am",
+          "are",
+          "is"
+        ],
+        "answer": "are"
+      },
+      {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "He ___ television every evening.",
+        "options": [
+          "watched",
+          "watches",
+          "watch",
+          "watching"
+        ],
+        "answer": "watches"
+      },
+      {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Look at ___!",
+        "options": [
+          "his",
+          "himself",
+          "him",
+          "he"
+        ],
+        "answer": "him"
+      },
+      {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "I usually get up ___ 7 o'clock.",
+        "options": [
+          "in",
+          "at",
+          "to",
+          "on"
+        ],
+        "answer": "at"
+      },
+      {
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Is this ___ jacket?",
+        "options": [
+          "yourself",
+          "you",
+          "yours",
+          "your"
+        ],
+        "answer": "your"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "How ___ money do you need?",
+        "options": [
+          "much",
+          "often",
+          "long",
+          "many"
+        ],
+        "answer": "much"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "She can swim, ___ she?",
+        "options": [
+          "can't",
+          "won't",
+          "doesn't",
+          "isn't"
+        ],
+        "answer": "can't"
+      },
+      {
+        "id": 19,
+        "type": "true_false",
+        "question": "The sentence 'He don't like milk' is grammatically correct.",
+        "options": [
+          "False",
+          "True"
+        ],
+        "answer": "False"
+      },
+      {
+        "id": 20,
+        "type": "true_false",
+        "question": "'Wednesday' comes after Tuesday.",
+        "options": [
+          "False",
+          "True"
+        ],
+        "answer": "True"
+      }
+    ],
+    "A2": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "While I ___ reading, the phone rang.",
+        "options": [
+          "am",
+          "had",
+          "was",
+          "were"
+        ],
+        "answer": "was"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to London?",
+        "options": [
+          "went",
+          "go",
+          "going",
+          "been"
+        ],
+        "answer": "been"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "If it rains tomorrow, we ___ stay home.",
+        "options": [
+          "would",
+          "are",
+          "had",
+          "will"
+        ],
+        "answer": "will"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "You ___ wear a helmet when riding a motorbike.",
+        "options": [
+          "must",
+          "should to",
+          "could",
+          "might"
+        ],
+        "answer": "must"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "This building is the ___ in the city.",
+        "options": [
+          "most old",
+          "more old",
+          "older",
+          "oldest"
+        ],
+        "answer": "oldest"
+      },
+      {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "She asked me where I ___.",
+        "options": [
+          "am living",
+          "live",
+          "lived",
+          "will live"
+        ],
+        "answer": "lived"
+      },
+      {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "I haven't seen him ___ last Monday.",
+        "options": [
+          "since",
+          "in",
+          "for",
+          "from"
+        ],
+        "answer": "since"
+      },
+      {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "The book was ___ by a famous author.",
+        "options": [
+          "writing",
+          "write",
+          "written",
+          "wrote"
+        ],
+        "answer": "written"
+      },
+      {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "He promised ___ me tonight.",
+        "options": [
+          "to call",
+          "called",
+          "call",
+          "calling"
+        ],
+        "answer": "to call"
+      },
+      {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "I am interested ___ learning languages.",
+        "options": [
+          "about",
+          "in",
+          "on",
+          "at"
+        ],
+        "answer": "in"
+      },
+      {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Would you mind ___ the window?",
+        "options": [
+          "to open",
+          "opening",
+          "open",
+          "opened"
+        ],
+        "answer": "opening"
+      },
+      {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "She is looking forward to ___ her friend.",
+        "options": [
+          "met",
+          "meet",
+          "to meet",
+          "meeting"
+        ],
+        "answer": "meeting"
+      },
+      {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "You don't need to hurry; we have ___ time.",
+        "options": [
+          "many",
+          "a few",
+          "few",
+          "plenty of"
+        ],
+        "answer": "plenty of"
+      },
+      {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "I'll call you as soon as I ___.",
+        "options": [
+          "will arrive",
+          "arrive",
+          "arrived",
+          "arriving"
+        ],
+        "answer": "arrive"
+      },
+      {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Neither John ___ Mary came to the party.",
+        "options": [
+          "nor",
+          "but",
+          "or",
+          "and"
+        ],
+        "answer": "nor"
+      },
+      {
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "He drives much more ___ than his brother.",
+        "options": [
+          "carefully",
+          "care",
+          "careful",
+          "carefulness"
+        ],
+        "answer": "carefully"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "She stopped ___ because she was tired.",
+        "options": [
+          "running",
+          "run",
+          "ran",
+          "to run"
+        ],
+        "answer": "running"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "That is the girl ___ father is a doctor.",
+        "options": [
+          "whose",
+          "who",
+          "whom",
+          "which"
+        ],
+        "answer": "whose"
+      },
+      {
+        "id": 19,
+        "type": "true_false",
+        "question": "'Since' is used with a specific point in time in Present Perfect tense.",
+        "options": [
+          "False",
+          "True"
+        ],
+        "answer": "True"
+      },
+      {
+        "id": 20,
+        "type": "true_false",
+        "question": "The comparative form of 'good' is 'gooder'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ],
+    "B1": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "If I ___ more money, I would buy a car.",
+        "options": [
+          "have",
+          "had",
+          "will have",
+          "had had"
+        ],
+        "answer": "had"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "By the time we arrived, the movie ___ already started.",
+        "options": [
+          "had",
+          "is",
+          "was",
+          "has"
+        ],
+        "answer": "had"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "He's lived here for five years, ___?",
+        "options": [
+          "isn't he",
+          "hasn't he",
+          "doesn't he",
+          "didn't he"
+        ],
+        "answer": "hasn't he"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "I wish I ___ speak French fluently.",
+        "options": [
+          "am able",
+          "will",
+          "could",
+          "can"
+        ],
+        "answer": "could"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "The car ___ repaired right now.",
+        "options": [
+          "was being",
+          "is",
+          "has been",
+          "is being"
+        ],
+        "answer": "is being"
+      },
+      {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "He advised me ___ too much coffee.",
+        "options": [
+          "not to drink",
+          "to not drink",
+          "no drink",
+          "don't drink"
+        ],
+        "answer": "not to drink"
+      },
+      {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Unless you ___ hard, you won't pass the exam.",
+        "options": [
+          "studied",
+          "study",
+          "will study",
+          "don't study"
+        ],
+        "answer": "study"
+      },
+      {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "I'm used to ___ up early every day.",
+        "options": [
+          "woke",
+          "woken",
+          "wake",
+          "waking"
+        ],
+        "answer": "waking"
+      },
+      {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "He denied ___ the money.",
+        "options": [
+          "stolen",
+          "to steal",
+          "steal",
+          "stealing"
+        ],
+        "answer": "stealing"
+      },
+      {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "The hotel where we stayed ___ very comfortable.",
+        "options": [
+          "being",
+          "were",
+          "was",
+          "had been"
+        ],
+        "answer": "was"
+      },
+      {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "You had better ___ your homework before going out.",
+        "options": [
+          "did",
+          "doing",
+          "do",
+          "to do"
+        ],
+        "answer": "do"
+      },
+      {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "She succeeded ___ passing the entrance exam.",
+        "options": [
+          "with",
+          "on",
+          "at",
+          "in"
+        ],
+        "answer": "in"
+      },
+      {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "I'd rather stay home than ___ to the cinema tonight.",
+        "options": [
+          "going",
+          "go",
+          "went",
+          "to go"
+        ],
+        "answer": "go"
+      },
+      {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Despite ___ late, he didn't miss the bus.",
+        "options": [
+          "being",
+          "be",
+          "is",
+          "he was"
+        ],
+        "answer": "being"
+      },
+      {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "He asked me how long I ___ English.",
+        "options": [
+          "am learning",
+          "have learned",
+          "learn",
+          "had been learning"
+        ],
+        "answer": "had been learning"
+      },
+      {
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "No sooner had I entered the room ___ the lights went out.",
+        "options": [
+          "when",
+          "then",
+          "that",
+          "than"
+        ],
+        "answer": "than"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "We were made ___ the entire form again.",
+        "options": [
+          "filled out",
+          "fill out",
+          "filling out",
+          "to fill out"
+        ],
+        "answer": "to fill out"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "Is there anything worth ___ in this town?",
+        "options": [
+          "to visit",
+          "visited",
+          "visiting",
+          "visit"
+        ],
+        "answer": "visiting"
+      },
+      {
+        "id": 19,
+        "type": "true_false",
+        "question": "'Although' is followed by a clause containing a subject and a verb.",
+        "options": [
+          "False",
+          "True"
+        ],
+        "answer": "True"
+      },
+      {
+        "id": 20,
+        "type": "true_false",
+        "question": "The third conditional refers to hypothetical situations in the present or future.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ],
+    "B2": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Had I known about the party, I ___ attended.",
+        "options": [
+          "would have",
+          "had",
+          "would",
+          "will have"
+        ],
+        "answer": "would have"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "The manager insisted that the report ___ submitted by Friday.",
+        "options": [
+          "was",
+          "should being",
+          "be",
+          "is"
+        ],
+        "answer": "be"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Hardly ___ entered the house when the phone rang.",
+        "options": [
+          "I did",
+          "I had",
+          "did I",
+          "had I"
+        ],
+        "answer": "had I"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "She spoke as though she ___ everything about the topic.",
+        "options": [
+          "knew",
+          "has known",
+          "will know",
+          "knows"
+        ],
+        "answer": "knew"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "The project was canceled due to a lack of ___ funding.",
+        "options": [
+          "trivial",
+          "redundant",
+          "subtle",
+          "adequate"
+        ],
+        "answer": "adequate"
+      },
+      {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "He is thought ___ the country yesterday morning.",
+        "options": [
+          "to have left",
+          "having left",
+          "to leave",
+          "leaving"
+        ],
+        "answer": "to have left"
+      },
+      {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Little ___ that his life was about to change forever.",
+        "options": [
+          "he knew",
+          "did he know",
+          "does he know",
+          "he knows"
+        ],
+        "answer": "did he know"
+      },
+      {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "You ___ have called him; he was already informed.",
+        "options": [
+          "couldn't to",
+          "shouldn't to",
+          "mustn't",
+          "needn't"
+        ],
+        "answer": "needn't"
+      },
+      {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "It is high time we ___ a decision on this matter.",
+        "options": [
+          "have made",
+          "made",
+          "make",
+          "will make"
+        ],
+        "answer": "made"
+      },
+      {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "I would appreciate ___ if you kept this confidential.",
+        "options": [
+          "it",
+          "this",
+          "that",
+          "-"
+        ],
+        "answer": "it"
+      },
+      {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Not only ___ late, but he also forgot his passport.",
+        "options": [
+          "he is",
+          "was he",
+          "is he",
+          "he was"
+        ],
+        "answer": "was he"
+      },
+      {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "She was reluctant ___ the contract without legal advice.",
+        "options": [
+          "signing",
+          "for signing",
+          "to sign",
+          "sign"
+        ],
+        "answer": "to sign"
+      },
+      {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "The company's profits have grown ___ over the last quarter.",
+        "options": [
+          "significantly",
+          "scarce",
+          "superficial",
+          "arbitrary"
+        ],
+        "answer": "significantly"
+      },
+      {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Supposing you ___ the lottery, what would you do first?",
+        "options": [
+          "had won",
+          "won",
+          "will win",
+          "win"
+        ],
+        "answer": "won"
+      },
+      {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "He was accused of ___ official company funds.",
+        "options": [
+          "embezzling",
+          "operating",
+          "committing",
+          "executing"
+        ],
+        "answer": "embezzling"
+      },
+      {
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "The issue was so complex that it took hours to ___ it out.",
+        "options": [
+          "run",
+          "pull",
+          "take",
+          "thrash"
+        ],
+        "answer": "thrash"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "She has an infallible knack ___ finding bargain items.",
+        "options": [
+          "in",
+          "of",
+          "at",
+          "for"
+        ],
+        "answer": "for"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "Were it not for your assistance, we ___ in deep trouble.",
+        "options": [
+          "are",
+          "will be",
+          "would be",
+          "were"
+        ],
+        "answer": "would be"
+      },
+      {
+        "id": 19,
+        "type": "true_false",
+        "question": "In inversion sentences starting with 'Never', the auxiliary verb precedes the subject.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "True"
+      },
+      {
+        "id": 20,
+        "type": "true_false",
+        "question": "'In spite of' can be directly followed by a full subject-verb clause without 'the fact that'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ],
+    "C1": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "So intense ___ the heat that the tarmac began to melt.",
+        "options": [
+          "was",
+          "is",
+          "had",
+          "were"
+        ],
+        "answer": "was"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Such was the complexity of the task that it ___ all our expectations.",
+        "options": [
+          "defied",
+          "scrutinized",
+          "amplified",
+          "inferred"
+        ],
+        "answer": "defied"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "On no account ___ the door be left unlocked during non-business hours.",
+        "options": [
+          "ought",
+          "must to",
+          "should",
+          "shall to"
+        ],
+        "answer": "should"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "The professor's lecture was so ___ that half the class fell asleep.",
+        "options": [
+          "poignant",
+          "succinct",
+          "lucid",
+          "soporific"
+        ],
+        "answer": "soporific"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Be that as it ___, we must proceed with the original schedule.",
+        "options": [
+          "be",
+          "is",
+          "will",
+          "may"
+        ],
+        "answer": "may"
+      },
+      {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Far ___ it from me to criticize your choices, but caution is advised.",
+        "options": [
+          "is",
+          "was",
+          "be",
+          "were"
+        ],
+        "answer": "be"
+      },
+      {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "He spoke with such conviction as to ___ any lingering doubts.",
+        "options": [
+          "entail",
+          "elicit",
+          "dispel",
+          "foster"
+        ],
+        "answer": "dispel"
+      },
+      {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "Should you ___ to encounter any difficulties, do not hesitate to contact us.",
+        "options": [
+          "chance",
+          "manage",
+          "occur",
+          "happen"
+        ],
+        "answer": "happen"
+      },
+      {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "The new regulations will come into ___ at the start of the next fiscal year.",
+        "options": [
+          "efficacy",
+          "effort",
+          "affect",
+          "effect"
+        ],
+        "answer": "effect"
+      },
+      {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Never before ___ such a blatant disregard for established protocol.",
+        "options": [
+          "have I witnessed",
+          "I witnessed",
+          "I have witnessed",
+          "witnessed I"
+        ],
+        "answer": "have I witnessed"
+      },
+      {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "The evidence presented was purely ___, lacking empirical backing.",
+        "options": [
+          "circumstantial",
+          "meticulous",
+          "comprehensive",
+          "indispensable"
+        ],
+        "answer": "circumstantial"
+      },
+      {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "It was imperative that every member ___ present at the emergency summit.",
+        "options": [
+          "be",
+          "were",
+          "is",
+          "was"
+        ],
+        "answer": "be"
+      },
+      {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "He managed to pull off the deal against all ___ odds.",
+        "options": [
+          "meticulous",
+          "obsolete",
+          "precarious",
+          "insurmountable"
+        ],
+        "answer": "insurmountable"
+      },
+      {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "To say he was upset would be a gross ___; he was furious.",
+        "options": [
+          "redundancy",
+          "prerequisite",
+          "paradox",
+          "understatement"
+        ],
+        "answer": "understatement"
+      },
+      {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Only by working together ___ overcome this unprecedented crisis.",
+        "options": [
+          "could we have",
+          "we can",
+          "we could",
+          "can we"
+        ],
+        "answer": "can we"
+      },
+      {
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "The CEO's decision was met with widespread ___ from both shareholders and employees.",
+        "options": [
+          "concurrence",
+          "complacency",
+          "condemnation",
+          "commendation"
+        ],
+        "answer": "condemnation"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Had the warning signs been heeded, the catastrophe ___ averted.",
+        "options": [
+          "can be",
+          "could have been",
+          "would be",
+          "had been"
+        ],
+        "answer": "could have been"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "Her explanation, while elaborate, failed to ___ light on the core problem.",
+        "options": [
+          "cast",
+          "throw",
+          "drop",
+          "shed"
+        ],
+        "answer": "shed"
+      },
+      {
+        "id": 19,
+        "type": "true_false",
+        "question": "The phrase 'lest he should fail' uses a subjunctive clause to express fear or prevention.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "True"
+      },
+      {
+        "id": 20,
+        "type": "true_false",
+        "question": "The word 'ubiquitous' means extremely rare and hard to find.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ]
+  }
+}
