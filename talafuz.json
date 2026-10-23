@@ -5,63 +5,233 @@
       "items": [
         {
           "id": 1,
-          "uzbek": { "word": "Salom", "sentence": "Salom, qalaysiz?" },
-          "english": { "word": "Hello", "sentence": "Hello, how are you?" },
-          "korean": { "word": "안녕하세요", "sentence": "안녕하세요, 어떻게 지내세요?" }
+          "uzbek": {
+            "word": "Salom",
+            "sentence": "Salom, qalaysiz?"
+          },
+          "english": {
+            "word": "Hello",
+            "sentence": "Hello, how are you?"
+          },
+          "korean": {
+            "word": "안녕하세요",
+            "sentence": "안녕하세요, 어떻게 지내세요?"
+          },
+          "russian": {
+            "word": "Привет",
+            "sentence": "Привет, как дела?"
+          },
+          "german": {
+            "word": "Hallo",
+            "sentence": "Hallo, wie geht es dir?"
+          }
         },
         {
           "id": 2,
-          "uzbek": { "word": "Rahmat", "sentence": "Yordamingiz uchun rahmat." },
-          "english": { "word": "Thank you", "sentence": "Thank you for your help." },
-          "korean": { "word": "감사합니다", "sentence": "도와주셔서 감사합니다." }
+          "uzbek": {
+            "word": "Rahmat",
+            "sentence": "Yordamingiz uchun rahmat."
+          },
+          "english": {
+            "word": "Thank you",
+            "sentence": "Thank you for your help."
+          },
+          "korean": {
+            "word": "감사합니다",
+            "sentence": "도와주셔서 감사합니다."
+          },
+          "russian": {
+            "word": "Спасибо",
+            "sentence": "Спасибо за вашу помощь."
+          },
+          "german": {
+            "word": "Danke",
+            "sentence": "Danke für deine Hilfe."
+          }
         },
         {
           "id": 3,
-          "uzbek": { "word": "Ism", "sentence": "Mening ismim Alimardon." },
-          "english": { "word": "Name", "sentence": "My name is Alimardon." },
-          "korean": { "word": "이름", "sentence": "제 이름은 알리마르돈입니다." }
+          "uzbek": {
+            "word": "Ism",
+            "sentence": "Mening ismim Alimardon."
+          },
+          "english": {
+            "word": "Name",
+            "sentence": "My name is Alimardon."
+          },
+          "korean": {
+            "word": "이름",
+            "sentence": "제 이름은 알리마르돈입니다."
+          },
+          "russian": {
+            "word": "Имя",
+            "sentence": "Меня зовут Алимардон."
+          },
+          "german": {
+            "word": "Name",
+            "sentence": "Mein Name ist Alimardon."
+          }
         },
         {
           "id": 4,
-          "uzbek": { "word": "Kitob", "sentence": "Men kitob o'qiyapman." },
-          "english": { "word": "Book", "sentence": "I am reading a book." },
-          "korean": { "word": "책", "sentence": "저는 책을 읽고 있습니다." }
+          "uzbek": {
+            "word": "Kitob",
+            "sentence": "Men kitob o'qiyapman."
+          },
+          "english": {
+            "word": "Book",
+            "sentence": "I am reading a book."
+          },
+          "korean": {
+            "word": "책",
+            "sentence": "저는 책을 읽고 있습니다."
+          },
+          "russian": {
+            "word": "Книга",
+            "sentence": "Я читаю книгу."
+          },
+          "german": {
+            "word": "Buch",
+            "sentence": "Ich lese gerade ein Buch."
+          }
         },
         {
           "id": 5,
-          "uzbek": { "word": "Suv", "sentence": "Bir stakan suv bering." },
-          "english": { "word": "Water", "sentence": "Give me a glass of water." },
-          "korean": { "word": "물", "sentence": "물 한 잔 주세요." }
+          "uzbek": {
+            "word": "Suv",
+            "sentence": "Bir stakan suv bering."
+          },
+          "english": {
+            "word": "Water",
+            "sentence": "Give me a glass of water."
+          },
+          "korean": {
+            "word": "물",
+            "sentence": "물 한 잔 주세요."
+          },
+          "russian": {
+            "word": "Вода",
+            "sentence": "Дайте мне стакан воды."
+          },
+          "german": {
+            "word": "Wasser",
+            "sentence": "Gib mir bitte ein Glas Wasser."
+          }
         },
         {
           "id": 6,
-          "uzbek": { "word": "Maktab", "sentence": "Men maktabga boraman." },
-          "english": { "word": "School", "sentence": "I go to school every day." },
-          "korean": { "word": "학교", "sentence": "나는 매일 학교에 갑니다." }
+          "uzbek": {
+            "word": "Maktab",
+            "sentence": "Men maktabga boraman."
+          },
+          "english": {
+            "word": "School",
+            "sentence": "I go to school every day."
+          },
+          "korean": {
+            "word": "학교",
+            "sentence": "나는 매일 학교에 갑니다."
+          },
+          "russian": {
+            "word": "Школа",
+            "sentence": "Я хожу в школу каждый день."
+          },
+          "german": {
+            "word": "Schule",
+            "sentence": "Ich gehe jeden Tag zur Schule."
+          }
         },
         {
           "id": 7,
-          "uzbek": { "word": "Do'st", "sentence": "U mening eng yaxshi do'stimgiz." },
-          "english": { "word": "Friend", "sentence": "He is my best friend." },
-          "korean": { "word": "친구", "sentence": "그는 나의 가장 친한 친구이다." }
+          "uzbek": {
+            "word": "Do'st",
+            "sentence": "U mening eng yaxshi do'stimgiz."
+          },
+          "english": {
+            "word": "Friend",
+            "sentence": "He is my best friend."
+          },
+          "korean": {
+            "word": "친구",
+            "sentence": "그는 나의 가장 친한 친구이다."
+          },
+          "russian": {
+            "word": "Друг",
+            "sentence": "Он мой лучший друг."
+          },
+          "german": {
+            "word": "Freund",
+            "sentence": "Er ist mein bester Freund."
+          }
         },
         {
           "id": 8,
-          "uzbek": { "word": "Nonushta", "sentence": "Nonushta tayyor." },
-          "english": { "word": "Breakfast", "sentence": "Breakfast is ready." },
-          "korean": { "word": "아침 식사", "sentence": "아침 식사가 준비되었습니다." }
+          "uzbek": {
+            "word": "Nonushta",
+            "sentence": "Nonushta tayyor."
+          },
+          "english": {
+            "word": "Breakfast",
+            "sentence": "Breakfast is ready."
+          },
+          "korean": {
+            "word": "아침 식사",
+            "sentence": "아침 식사가 준비되었습니다."
+          },
+          "russian": {
+            "word": "Завтрак",
+            "sentence": "Завтрак готов."
+          },
+          "german": {
+            "word": "Frühstück",
+            "sentence": "Das Frühstück ist fertig."
+          }
         },
         {
           "id": 9,
-          "uzbek": { "word": "Uy", "sentence": "Mening uyim katta." },
-          "english": { "word": "House", "sentence": "My house is big and clean." },
-          "korean": { "word": "집", "sentence": "우리 집은 크고 깨끗합니다." }
+          "uzbek": {
+            "word": "Uy",
+            "sentence": "Mening uyim katta."
+          },
+          "english": {
+            "word": "House",
+            "sentence": "My house is big and clean."
+          },
+          "korean": {
+            "word": "집",
+            "sentence": "우리 집은 크고 깨끗합니다."
+          },
+          "russian": {
+            "word": "Дом",
+            "sentence": "Мой дом большой и чистый."
+          },
+          "german": {
+            "word": "Haus",
+            "sentence": "Mein Haus ist groß und sauber."
+          }
         },
         {
           "id": 10,
-          "uzbek": { "word": "Mushuk", "sentence": "Mushuk sut ichmoqda." },
-          "english": { "word": "Cat", "sentence": "The cat is drinking milk." },
-          "korean": { "word": "고양이", "sentence": "고양이가 우유를 마시고 있습니다." }
+          "uzbek": {
+            "word": "Mushuk",
+            "sentence": "Mushuk sut ichmoqda."
+          },
+          "english": {
+            "word": "Cat",
+            "sentence": "The cat is drinking milk."
+          },
+          "korean": {
+            "word": "고양이",
+            "sentence": "고양이가 우유를 마시고 있습니다."
+          },
+          "russian": {
+            "word": "Кошка",
+            "sentence": "Кошка пьёт молоко."
+          },
+          "german": {
+            "word": "Katze",
+            "sentence": "Die Katze trinkt Milch."
+          }
         }
       ]
     },
@@ -70,63 +240,233 @@
       "items": [
         {
           "id": 11,
-          "uzbek": { "word": "Sayohat", "sentence": "Men kelasi hafta sayohatga chiqaman." },
-          "english": { "word": "Travel", "sentence": "I am going on a trip next week." },
-          "korean": { "word": "여행", "sentence": "나는 다음 주에 여행을 갈 것입니다." }
+          "uzbek": {
+            "word": "Sayohat",
+            "sentence": "Men kelasi hafta sayohatga chiqaman."
+          },
+          "english": {
+            "word": "Travel",
+            "sentence": "I am going on a trip next week."
+          },
+          "korean": {
+            "word": "여행",
+            "sentence": "나는 다음 주에 여행을 갈 것입니다."
+          },
+          "russian": {
+            "word": "Путешествие",
+            "sentence": "На следующей неделе я отправляюсь в путешествие."
+          },
+          "german": {
+            "word": "Reise",
+            "sentence": "Nächste Woche fahre ich auf eine Reise."
+          }
         },
         {
           "id": 12,
-          "uzbek": { "word": "Ob-havo", "sentence": "Bugun ob-havo juda yaxshi." },
-          "english": { "word": "Weather", "sentence": "The weather is very nice today." },
-          "korean": { "word": "날씨", "sentence": "오늘 날씨가 아주 좋습니다." }
+          "uzbek": {
+            "word": "Ob-havo",
+            "sentence": "Bugun ob-havo juda yaxshi."
+          },
+          "english": {
+            "word": "Weather",
+            "sentence": "The weather is very nice today."
+          },
+          "korean": {
+            "word": "날씨",
+            "sentence": "오늘 날씨가 아주 좋습니다."
+          },
+          "russian": {
+            "word": "Погода",
+            "sentence": "Сегодня очень хорошая погода."
+          },
+          "german": {
+            "word": "Wetter",
+            "sentence": "Das Wetter ist heute sehr schön."
+          }
         },
         {
           "id": 13,
-          "uzbek": { "word": "Restoran", "sentence": "Keling, restoranrda ovqatlanamiz." },
-          "english": { "word": "Restaurant", "sentence": "Let's eat at a restaurant." },
-          "korean": { "word": "식당", "sentence": "식당에서 저녁을 먹읍시다." }
+          "uzbek": {
+            "word": "Restoran",
+            "sentence": "Keling, restoranrda ovqatlanamiz."
+          },
+          "english": {
+            "word": "Restaurant",
+            "sentence": "Let's eat at a restaurant."
+          },
+          "korean": {
+            "word": "식당",
+            "sentence": "식당에서 저녁을 먹읍시다."
+          },
+          "russian": {
+            "word": "Ресторан",
+            "sentence": "Давай поедим в ресторане."
+          },
+          "german": {
+            "word": "Restaurant",
+            "sentence": "Lass uns im Restaurant essen."
+          }
         },
         {
           "id": 14,
-          "uzbek": { "word": "Xarid", "sentence": "Men do'kondan xarid qilyapman." },
-          "english": { "word": "Shopping", "sentence": "I am shopping at the supermarket." },
-          "korean": { "word": "쇼핑", "sentence": "나는 슈퍼마켓에서 쇼핑을 하고 있습니다." }
+          "uzbek": {
+            "word": "Xarid",
+            "sentence": "Men do'kondan xarid qilyapman."
+          },
+          "english": {
+            "word": "Shopping",
+            "sentence": "I am shopping at the supermarket."
+          },
+          "korean": {
+            "word": "쇼핑",
+            "sentence": "나는 슈퍼마켓에서 쇼핑을 하고 있습니다."
+          },
+          "russian": {
+            "word": "Покупки",
+            "sentence": "Я делаю покупки в супермаркете."
+          },
+          "german": {
+            "word": "Einkaufen",
+            "sentence": "Ich kaufe im Supermarkt ein."
+          }
         },
         {
           "id": 15,
-          "uzbek": { "word": "Vaqt", "sentence": "Hozir soat nechchi bo'ldi?" },
-          "english": { "word": "Time", "sentence": "What time is it now?" },
-          "korean": { "word": "시간", "sentence": "지금 몇 시입니까?" }
+          "uzbek": {
+            "word": "Vaqt",
+            "sentence": "Hozir soat nechchi bo'ldi?"
+          },
+          "english": {
+            "word": "Time",
+            "sentence": "What time is it now?"
+          },
+          "korean": {
+            "word": "시간",
+            "sentence": "지금 몇 시입니까?"
+          },
+          "russian": {
+            "word": "Время",
+            "sentence": "Который час сейчас?"
+          },
+          "german": {
+            "word": "Zeit",
+            "sentence": "Wie spät ist es jetzt?"
+          }
         },
         {
           "id": 16,
-          "uzbek": { "word": "Musiqa", "sentence": "Men har kuni musiqa tinglayman." },
-          "english": { "word": "Music", "sentence": "I listen to music every day." },
-          "korean": { "word": "음악", "sentence": "나는 매일 음악을 듣습니다." }
+          "uzbek": {
+            "word": "Musiqa",
+            "sentence": "Men har kuni musiqa tinglayman."
+          },
+          "english": {
+            "word": "Music",
+            "sentence": "I listen to music every day."
+          },
+          "korean": {
+            "word": "음악",
+            "sentence": "나는 매일 음악을 듣습니다."
+          },
+          "russian": {
+            "word": "Музыка",
+            "sentence": "Я слушаю музыку каждый день."
+          },
+          "german": {
+            "word": "Musik",
+            "sentence": "Ich höre jeden Tag Musik."
+          }
         },
         {
           "id": 17,
-          "uzbek": { "word": "Shifokor", "sentence": "Shifokor oldiga borishim kerak." },
-          "english": { "word": "Doctor", "sentence": "I need to visit the doctor." },
-          "korean": { "word": "의사", "sentence": "의사 선생님을 만나야 합니다." }
+          "uzbek": {
+            "word": "Shifokor",
+            "sentence": "Shifokor oldiga borishim kerak."
+          },
+          "english": {
+            "word": "Doctor",
+            "sentence": "I need to visit the doctor."
+          },
+          "korean": {
+            "word": "의사",
+            "sentence": "의사 선생님을 만나야 합니다."
+          },
+          "russian": {
+            "word": "Врач",
+            "sentence": "Мне нужно сходить к врачу."
+          },
+          "german": {
+            "word": "Arzt",
+            "sentence": "Ich muss zum Arzt gehen."
+          }
         },
         {
           "id": 18,
-          "uzbek": { "word": "Pul", "sentence": "Menda yetarlicha pul bor." },
-          "english": { "word": "Money", "sentence": "I have enough money for tickets." },
-          "korean": { "word": "돈", "sentence": "표를 살 돈이 충분히 있습니다." }
+          "uzbek": {
+            "word": "Pul",
+            "sentence": "Menda yetarlicha pul bor."
+          },
+          "english": {
+            "word": "Money",
+            "sentence": "I have enough money for tickets."
+          },
+          "korean": {
+            "word": "돈",
+            "sentence": "표를 살 돈이 충분히 있습니다."
+          },
+          "russian": {
+            "word": "Деньги",
+            "sentence": "У меня достаточно денег на билеты."
+          },
+          "german": {
+            "word": "Geld",
+            "sentence": "Ich habe genug Geld für die Tickets."
+          }
         },
         {
           "id": 19,
-          "uzbek": { "word": "Reja", "sentence": "Ertangi kun uchun rejam bor." },
-          "english": { "word": "Plan", "sentence": "I have a plan for tomorrow." },
-          "korean": { "word": "계획", "sentence": "내일 할 계획이 있습니다." }
+          "uzbek": {
+            "word": "Reja",
+            "sentence": "Ertangi kun uchun rejam bor."
+          },
+          "english": {
+            "word": "Plan",
+            "sentence": "I have a plan for tomorrow."
+          },
+          "korean": {
+            "word": "계획",
+            "sentence": "내일 할 계획이 있습니다."
+          },
+          "russian": {
+            "word": "План",
+            "sentence": "У меня есть план на завтра."
+          },
+          "german": {
+            "word": "Plan",
+            "sentence": "Ich habe einen Plan für morgen."
+          }
         },
         {
           "id": 20,
-          "uzbek": { "word": "Hobi", "sentence": "Mening hobim rasm chizish." },
-          "english": { "word": "Hobby", "sentence": "My hobby is painting pictures." },
-          "korean": { "word": "취미", "sentence": "내 취미는 그림을 그리는 것입니다." }
+          "uzbek": {
+            "word": "Hobi",
+            "sentence": "Mening hobim rasm chizish."
+          },
+          "english": {
+            "word": "Hobby",
+            "sentence": "My hobby is painting pictures."
+          },
+          "korean": {
+            "word": "취미",
+            "sentence": "내 취미는 그림을 그리는 것입니다."
+          },
+          "russian": {
+            "word": "Хобби",
+            "sentence": "Моё хобби — рисование картин."
+          },
+          "german": {
+            "word": "Hobby",
+            "sentence": "Mein Hobby ist das Malen von Bildern."
+          }
         }
       ]
     },
@@ -135,63 +475,233 @@
       "items": [
         {
           "id": 21,
-          "uzbek": { "word": "Tajriba", "sentence": "Bu ishda katta tajribam bor." },
-          "english": { "word": "Experience", "sentence": "I have great experience in this field." },
-          "korean": { "word": "경험", "sentence": "이 분야에서 훌륭한 경험이 있습니다." }
+          "uzbek": {
+            "word": "Tajriba",
+            "sentence": "Bu ishda katta tajribam bor."
+          },
+          "english": {
+            "word": "Experience",
+            "sentence": "I have great experience in this field."
+          },
+          "korean": {
+            "word": "경험",
+            "sentence": "이 분야에서 훌륭한 경험이 있습니다."
+          },
+          "russian": {
+            "word": "Опыт",
+            "sentence": "У меня большой опыт в этой области."
+          },
+          "german": {
+            "word": "Erfahrung",
+            "sentence": "Ich habe große Erfahrung auf diesem Gebiet."
+          }
         },
         {
           "id": 22,
-          "uzbek": { "word": "Muvaffaqiyat", "sentence": "Muvaffaqiyatga erishish uchun mehnat qilish kerak." },
-          "english": { "word": "Success", "sentence": "You must work hard to achieve success." },
-          "korean": { "word": "성공", "sentence": "성공을 거두려면 열심히 일해야 합니다." }
+          "uzbek": {
+            "word": "Muvaffaqiyat",
+            "sentence": "Muvaffaqiyatga erishish uchun mehnat qilish kerak."
+          },
+          "english": {
+            "word": "Success",
+            "sentence": "You must work hard to achieve success."
+          },
+          "korean": {
+            "word": "성공",
+            "sentence": "성공을 거두려면 열심히 일해야 합니다."
+          },
+          "russian": {
+            "word": "Успех",
+            "sentence": "Чтобы добиться успеха, нужно трудиться."
+          },
+          "german": {
+            "word": "Erfolg",
+            "sentence": "Man muss hart arbeiten, um Erfolg zu erreichen."
+          }
         },
         {
           "id": 23,
-          "uzbek": { "word": "Maqsad", "sentence": "Mening asosiy maqsadim ingliz tilini o'rganish." },
-          "english": { "word": "Goal", "sentence": "My main goal is to learn English." },
-          "korean": { "word": "목표", "sentence": "나의 주된 목표는 영어를 배우는 것이다." }
+          "uzbek": {
+            "word": "Maqsad",
+            "sentence": "Mening asosiy maqsadim ingliz tilini o'rganish."
+          },
+          "english": {
+            "word": "Goal",
+            "sentence": "My main goal is to learn English."
+          },
+          "korean": {
+            "word": "목표",
+            "sentence": "나의 주된 목표는 영어를 배우는 것이다."
+          },
+          "russian": {
+            "word": "Цель",
+            "sentence": "Моя главная цель — выучить английский язык."
+          },
+          "german": {
+            "word": "Ziel",
+            "sentence": "Mein Hauptziel ist es, Englisch zu lernen."
+          }
         },
         {
           "id": 24,
-          "uzbek": { "word": "Muhit", "sentence": "Atrof-muhitni toza saqlashimiz kerak." },
-          "english": { "word": "Environment", "sentence": "We must keep our environment clean." },
-          "korean": { "word": "환경", "sentence": "우리는 환경을 깨끗하게 유지해야 합니다." }
+          "uzbek": {
+            "word": "Muhit",
+            "sentence": "Atrof-muhitni toza saqlashimiz kerak."
+          },
+          "english": {
+            "word": "Environment",
+            "sentence": "We must keep our environment clean."
+          },
+          "korean": {
+            "word": "환경",
+            "sentence": "우리는 환경을 깨끗하게 유지해야 합니다."
+          },
+          "russian": {
+            "word": "Окружающая среда",
+            "sentence": "Мы должны поддерживать чистоту окружающей среды."
+          },
+          "german": {
+            "word": "Umwelt",
+            "sentence": "Wir müssen unsere Umwelt sauber halten."
+          }
         },
         {
           "id": 25,
-          "uzbek": { "word": "Imkoniyat", "sentence": "Bu ajoyib imkoniyat." },
-          "english": { "word": "Opportunity", "sentence": "This is a wonderful opportunity for us." },
-          "korean": { "word": "기회", "sentence": "이것은 우리에게 좋은 기회입니다." }
+          "uzbek": {
+            "word": "Imkoniyat",
+            "sentence": "Bu ajoyib imkoniyat."
+          },
+          "english": {
+            "word": "Opportunity",
+            "sentence": "This is a wonderful opportunity for us."
+          },
+          "korean": {
+            "word": "기회",
+            "sentence": "이것은 우리에게 좋은 기회입니다."
+          },
+          "russian": {
+            "word": "Возможность",
+            "sentence": "Это замечательная возможность для нас."
+          },
+          "german": {
+            "word": "Möglichkeit",
+            "sentence": "Dies ist eine wunderbare Möglichkeit für uns."
+          }
         },
         {
           "id": 26,
-          "uzbek": { "word": "Yechim", "sentence": "Biz bu muammoning yechimini topdik." },
-          "english": { "word": "Solution", "sentence": "We found a solution to this problem." },
-          "korean": { "word": "해결책", "sentence": "우리는 이 문제에 대한 해결책을 찾았습니다." }
+          "uzbek": {
+            "word": "Yechim",
+            "sentence": "Biz bu muammoning yechimini topdik."
+          },
+          "english": {
+            "word": "Solution",
+            "sentence": "We found a solution to this problem."
+          },
+          "korean": {
+            "word": "해결책",
+            "sentence": "우리는 이 문제에 대한 해결책을 찾았습니다."
+          },
+          "russian": {
+            "word": "Решение",
+            "sentence": "Мы нашли решение этой проблемы."
+          },
+          "german": {
+            "word": "Lösung",
+            "sentence": "Wir haben eine Lösung für dieses Problem gefunden."
+          }
         },
         {
           "id": 27,
-          "uzbek": { "word": "Fikr", "sentence": "Sizning bu haqdagi fikringiz qanday?" },
-          "english": { "word": "Opinion", "sentence": "What is your opinion about this matter?" },
-          "korean": { "word": "의견", "sentence": "이 문제에 대해 어떻게 생각하십니까?" }
+          "uzbek": {
+            "word": "Fikr",
+            "sentence": "Sizning bu haqdagi fikringiz qanday?"
+          },
+          "english": {
+            "word": "Opinion",
+            "sentence": "What is your opinion about this matter?"
+          },
+          "korean": {
+            "word": "의견",
+            "sentence": "이 문제에 대해 어떻게 생각하십니까?"
+          },
+          "russian": {
+            "word": "Мнение",
+            "sentence": "Каково ваше мнение об этом вопросе?"
+          },
+          "german": {
+            "word": "Meinung",
+            "sentence": "Was ist Ihre Meinung zu dieser Angelegenheit?"
+          }
         },
         {
           "id": 28,
-          "uzbek": { "word": "Rivojlanish", "sentence": "Texnologiya jadal rivojlanmoqda." },
-          "english": { "word": "Development", "sentence": "Technology is developing rapidly." },
-          "korean": { "word": "발전", "sentence": "기술이 빠르게 발전하고 있습니다." }
+          "uzbek": {
+            "word": "Rivojlanish",
+            "sentence": "Texnologiya jadal rivojlanmoqda."
+          },
+          "english": {
+            "word": "Development",
+            "sentence": "Technology is developing rapidly."
+          },
+          "korean": {
+            "word": "발전",
+            "sentence": "기술이 빠르게 발전하고 있습니다."
+          },
+          "russian": {
+            "word": "Развитие",
+            "sentence": "Технологии быстро развиваются."
+          },
+          "german": {
+            "word": "Entwicklung",
+            "sentence": "Die Technologie entwickelt sich rasant."
+          }
         },
         {
           "id": 29,
-          "uzbek": { "word": "Mas'uliyat", "sentence": "Har birimiz o'z vazifamizga mas'uliyat bilan qarashimiz kerak." },
-          "english": { "word": "Responsibility", "sentence": "We should take responsibility for our actions." },
-          "korean": { "word": "책임", "sentence": "우리는 자신의 행동에 책임을 져야 합니다." }
+          "uzbek": {
+            "word": "Mas'uliyat",
+            "sentence": "Har birimiz o'z vazifamizga mas'uliyat bilan qarashimiz kerak."
+          },
+          "english": {
+            "word": "Responsibility",
+            "sentence": "We should take responsibility for our actions."
+          },
+          "korean": {
+            "word": "책임",
+            "sentence": "우리는 자신의 행동에 책임을 져야 합니다."
+          },
+          "russian": {
+            "word": "Ответственность",
+            "sentence": "Каждый из нас должен ответственно относиться к своим обязанностям."
+          },
+          "german": {
+            "word": "Verantwortung",
+            "sentence": "Jeder von uns sollte Verantwortung für seine Aufgaben übernehmen."
+          }
         },
         {
           "id": 30,
-          "uzbek": { "word": "Madaniyat", "sentence": "Koreya madaniyati juda qiziqarli." },
-          "english": { "word": "Culture", "sentence": "Korean culture is very fascinating." },
-          "korean": { "word": "문화", "sentence": "한국 문화는 매우 매력적입니다." }
+          "uzbek": {
+            "word": "Madaniyat",
+            "sentence": "Koreya madaniyati juda qiziqarli."
+          },
+          "english": {
+            "word": "Culture",
+            "sentence": "Korean culture is very fascinating."
+          },
+          "korean": {
+            "word": "문화",
+            "sentence": "한국 문화는 매우 매력적입니다."
+          },
+          "russian": {
+            "word": "Культура",
+            "sentence": "Корейская культура очень интересна."
+          },
+          "german": {
+            "word": "Kultur",
+            "sentence": "Die koreanische Kultur ist sehr faszinierend."
+          }
         }
       ]
     },
@@ -200,63 +710,233 @@
       "items": [
         {
           "id": 31,
-          "uzbek": { "word": "Samaradorlik", "sentence": "Ish unumdorligini oshirish muhim." },
-          "english": { "word": "Efficiency", "sentence": "It is important to increase work efficiency." },
-          "korean": { "word": "효율성", "sentence": "업무 효율성을 높이는 것이 중요합니다." }
+          "uzbek": {
+            "word": "Samaradorlik",
+            "sentence": "Ish unumdorligini oshirish muhim."
+          },
+          "english": {
+            "word": "Efficiency",
+            "sentence": "It is important to increase work efficiency."
+          },
+          "korean": {
+            "word": "효율성",
+            "sentence": "업무 효율성을 높이는 것이 중요합니다."
+          },
+          "russian": {
+            "word": "Эффективность",
+            "sentence": "Важно повышать эффективность работы."
+          },
+          "german": {
+            "word": "Effizienz",
+            "sentence": "Es ist wichtig, die Arbeitseffizienz zu steigern."
+          }
         },
         {
           "id": 32,
-          "uzbek": { "word": "Strategiya", "sentence": "Bizga yangi biznes strategiyasi kerak." },
-          "english": { "word": "Strategy", "sentence": "We need a new business strategy for the project." },
-          "korean": { "word": "전략", "sentence": "우리는 프로젝트를 위한 새로운 사업 전략이 필요합니다." }
+          "uzbek": {
+            "word": "Strategiya",
+            "sentence": "Bizga yangi biznes strategiyasi kerak."
+          },
+          "english": {
+            "word": "Strategy",
+            "sentence": "We need a new business strategy for the project."
+          },
+          "korean": {
+            "word": "전략",
+            "sentence": "우리는 프로젝트를 위한 새로운 사업 전략이 필요합니다."
+          },
+          "russian": {
+            "word": "Стратегия",
+            "sentence": "Нам нужна новая бизнес-стратегия для проекта."
+          },
+          "german": {
+            "word": "Strategie",
+            "sentence": "Wir brauchen eine neue Geschäftsstrategie für das Projekt."
+          }
         },
         {
           "id": 33,
-          "uzbek": { "word": "Innovatsiya", "sentence": "Zamonaviy dunyoda innovatsiyalar muhim o'rin tutadi." },
-          "english": { "word": "Innovation", "sentence": "Innovation plays a crucial role in the modern world." },
-          "korean": { "word": "혁신", "sentence": "혁신은 현대 세계에서 중추적인 역할을 합니다." }
+          "uzbek": {
+            "word": "Innovatsiya",
+            "sentence": "Zamonaviy dunyoda innovatsiyalar muhim o'rin tutadi."
+          },
+          "english": {
+            "word": "Innovation",
+            "sentence": "Innovation plays a crucial role in the modern world."
+          },
+          "korean": {
+            "word": "혁신",
+            "sentence": "혁신은 현대 세계에서 중추적인 역할을 합니다."
+          },
+          "russian": {
+            "word": "Инновация",
+            "sentence": "В современном мире инновации занимают важное место."
+          },
+          "german": {
+            "word": "Innovation",
+            "sentence": "Innovationen spielen in der modernen Welt eine entscheidende Rolle."
+          }
         },
         {
           "id": 34,
-          "uzbek": { "word": "Ta'sir", "sentence": "Ijtimoiy tarmoqlar hayotimizga katta ta'sir ko'rsatmoqda." },
-          "english": { "word": "Influence", "sentence": "Social media has a great influence on our lives." },
-          "korean": { "word": "영향", "sentence": "소셜 미디어는 우리의 삶에 큰 영향을 미칩니다." }
+          "uzbek": {
+            "word": "Ta'sir",
+            "sentence": "Ijtimoiy tarmoqlar hayotimizga katta ta'sir ko'rsatmoqda."
+          },
+          "english": {
+            "word": "Influence",
+            "sentence": "Social media has a great influence on our lives."
+          },
+          "korean": {
+            "word": "영향",
+            "sentence": "소셜 미디어는 우리의 삶에 큰 영향을 미칩니다."
+          },
+          "russian": {
+            "word": "Влияние",
+            "sentence": "Социальные сети оказывают большое влияние на нашу жизнь."
+          },
+          "german": {
+            "word": "Einfluss",
+            "sentence": "Soziale Medien haben einen großen Einfluss auf unser Leben."
+          }
         },
         {
           "id": 35,
-          "uzbek": { "word": "Perspektiva", "sentence": "Kelajakka kengroq perspektivadan qarash kerak." },
-          "english": { "word": "Perspective", "sentence": "We need to look at the future from a broader perspective." },
-          "korean": { "word": "관점", "sentence": "우리는 더 넓은 관점에서 미래를 바라봐야 합니다." }
+          "uzbek": {
+            "word": "Perspektiva",
+            "sentence": "Kelajakka kengroq perspektivadan qarash kerak."
+          },
+          "english": {
+            "word": "Perspective",
+            "sentence": "We need to look at the future from a broader perspective."
+          },
+          "korean": {
+            "word": "관점",
+            "sentence": "우리는 더 넓은 관점에서 미래를 바라봐야 합니다."
+          },
+          "russian": {
+            "word": "Перспектива",
+            "sentence": "Нужно смотреть на будущее с более широкой перспективы."
+          },
+          "german": {
+            "word": "Perspektive",
+            "sentence": "Wir müssen die Zukunft aus einer breiteren Perspektive betrachten."
+          }
         },
         {
           "id": 36,
-          "uzbek": { "word": "Tahlil", "sentence": "Ma'lumotlarni chuqur tahlil qilish lozim." },
-          "english": { "word": "Analysis", "sentence": "A thorough analysis of the data is necessary." },
-          "korean": { "word": "분석", "sentence": "데이터에 대한 철저한 분석이 필요합니다." }
+          "uzbek": {
+            "word": "Tahlil",
+            "sentence": "Ma'lumotlarni chuqur tahlil qilish lozim."
+          },
+          "english": {
+            "word": "Analysis",
+            "sentence": "A thorough analysis of the data is necessary."
+          },
+          "korean": {
+            "word": "분석",
+            "sentence": "데이터에 대한 철저한 분석이 필요합니다."
+          },
+          "russian": {
+            "word": "Анализ",
+            "sentence": "Необходим тщательный анализ данных."
+          },
+          "german": {
+            "word": "Analyse",
+            "sentence": "Eine gründliche Analyse der Daten ist notwendig."
+          }
         },
         {
           "id": 37,
-          "uzbek": { "word": "Meros", "sentence": "Biz tarixiy merosimizni saqlashimiz kerak." },
-          "english": { "word": "Heritage", "sentence": "We must preserve our historical heritage." },
-          "korean": { "word": "유산", "sentence": "우리는 역사적 유산을 보존해야 합니다." }
+          "uzbek": {
+            "word": "Meros",
+            "sentence": "Biz tarixiy merosimizni saqlashimiz kerak."
+          },
+          "english": {
+            "word": "Heritage",
+            "sentence": "We must preserve our historical heritage."
+          },
+          "korean": {
+            "word": "유산",
+            "sentence": "우리는 역사적 유산을 보존해야 합니다."
+          },
+          "russian": {
+            "word": "Наследие",
+            "sentence": "Мы должны сохранять наше историческое наследие."
+          },
+          "german": {
+            "word": "Erbe",
+            "sentence": "Wir müssen unser historisches Erbe bewahren."
+          }
         },
         {
           "id": 38,
-          "uzbek": { "word": "Moslashish", "sentence": "O'zgarishlarga tezda moslashish muhim." },
-          "english": { "word": "Adaptation", "sentence": "Quick adaptation to changes is essential." },
-          "korean": { "word": "적응", "sentence": "변화에 대한 빠른 적응이 필수적입니다." }
+          "uzbek": {
+            "word": "Moslashish",
+            "sentence": "O'zgarishlarga tezda moslashish muhim."
+          },
+          "english": {
+            "word": "Adaptation",
+            "sentence": "Quick adaptation to changes is essential."
+          },
+          "korean": {
+            "word": "적응",
+            "sentence": "변화에 대한 빠른 적응이 필수적입니다."
+          },
+          "russian": {
+            "word": "Адаптация",
+            "sentence": "Быстрая адаптация к изменениям необходима."
+          },
+          "german": {
+            "word": "Anpassung",
+            "sentence": "Eine schnelle Anpassung an Veränderungen ist entscheidend."
+          }
         },
         {
           "id": 39,
-          "uzbek": { "word": "Muloqot", "sentence": "Samarali muloqot muvaffaqiyat kalitidir." },
-          "english": { "word": "Communication", "sentence": "Effective communication is the key to success." },
-          "korean": { "word": "의사소통", "sentence": "효과적인 의사소통은 성공의 열쇠입니다." }
+          "uzbek": {
+            "word": "Muloqot",
+            "sentence": "Samarali muloqot muvaffaqiyat kalitidir."
+          },
+          "english": {
+            "word": "Communication",
+            "sentence": "Effective communication is the key to success."
+          },
+          "korean": {
+            "word": "의사소통",
+            "sentence": "효과적인 의사소통은 성공의 열쇠입니다."
+          },
+          "russian": {
+            "word": "Общение",
+            "sentence": "Эффективное общение — ключ к успеху."
+          },
+          "german": {
+            "word": "Kommunikation",
+            "sentence": "Effektive Kommunikation ist der Schlüssel zum Erfolg."
+          }
         },
         {
           "id": 40,
-          "uzbek": { "word": "Barqarorlik", "sentence": "Iqtisodiy barqarorlik barchamiz uchun muhim." },
-          "english": { "word": "Sustainability", "sentence": "Economic sustainability is important for everyone." },
-          "korean": { "word": "지속 가능성", "sentence": "경제적 지속 가능성은 모든 이에게 중요합니다." }
+          "uzbek": {
+            "word": "Barqarorlik",
+            "sentence": "Iqtisodiy barqarorlik barchamiz uchun muhim."
+          },
+          "english": {
+            "word": "Sustainability",
+            "sentence": "Economic sustainability is important for everyone."
+          },
+          "korean": {
+            "word": "지속 가능성",
+            "sentence": "경제적 지속 가능성은 모든 이에게 중요합니다."
+          },
+          "russian": {
+            "word": "Устойчивость",
+            "sentence": "Экономическая устойчивость важна для всех нас."
+          },
+          "german": {
+            "word": "Nachhaltigkeit",
+            "sentence": "Wirtschaftliche Nachhaltigkeit ist für alle wichtig."
+          }
         }
       ]
     },
@@ -265,63 +945,233 @@
       "items": [
         {
           "id": 41,
-          "uzbek": { "word": "Murg'ak / Nozik", "sentence": "Bu masala juda nozik va murakkab jihatlarga ega." },
-          "english": { "word": "Nuance", "sentence": "We must pay attention to every single nuance of the agreement." },
-          "korean": { "word": "미묘한 차이", "sentence": "우리는 협정의 모든 미묘한 차이에 주의를 기울여야 합니다." }
+          "uzbek": {
+            "word": "Murg'ak / Nozik",
+            "sentence": "Bu masala juda nozik va murakkab jihatlarga ega."
+          },
+          "english": {
+            "word": "Nuance",
+            "sentence": "We must pay attention to every single nuance of the agreement."
+          },
+          "korean": {
+            "word": "미묘한 차이",
+            "sentence": "우리는 협정의 모든 미묘한 차이에 주의를 기울여야 합니다."
+          },
+          "russian": {
+            "word": "Нюанс",
+            "sentence": "Мы должны обращать внимание на каждый нюанс соглашения."
+          },
+          "german": {
+            "word": "Nuance",
+            "sentence": "Wir müssen auf jede einzelne Nuance der Vereinbarung achten."
+          }
         },
         {
           "id": 42,
-          "uzbek": { "word": "Ustuvorlik", "sentence": "Strategik ustuvorliklarni to'g'ri belgilash lozim." },
-          "english": { "word": "Prioritization", "sentence": "Proper prioritization is crucial for corporate management." },
-          "korean": { "word": "우선순위 지정", "sentence": "올바른 우선순위 지정은 기업 경영에 매우 중요합니다." }
+          "uzbek": {
+            "word": "Ustuvorlik",
+            "sentence": "Strategik ustuvorliklarni to'g'ri belgilash lozim."
+          },
+          "english": {
+            "word": "Prioritization",
+            "sentence": "Proper prioritization is crucial for corporate management."
+          },
+          "korean": {
+            "word": "우선순위 지정",
+            "sentence": "올바른 우선순위 지정은 기업 경영에 매우 중요합니다."
+          },
+          "russian": {
+            "word": "Расстановка приоритетов",
+            "sentence": "Правильная расстановка приоритетов крайне важна для корпоративного управления."
+          },
+          "german": {
+            "word": "Priorisierung",
+            "sentence": "Eine richtige Priorisierung ist für das Unternehmensmanagement entscheidend."
+          }
         },
         {
           "id": 43,
-          "uzbek": { "word": "Tushunarsiz / Mavhum", "sentence": "Ushbu qoida bir nechta mavhum ma'nolarni anglatadi." },
-          "english": { "word": "Ambiguous", "sentence": "His statement regarding the contract was rather ambiguous." },
-          "korean": { "word": "모호한", "sentence": "계약에 관한 그의 성명은 다소 모호했습니다." }
+          "uzbek": {
+            "word": "Tushunarsiz / Mavhum",
+            "sentence": "Ushbu qoida bir nechta mavhum ma'nolarni anglatadi."
+          },
+          "english": {
+            "word": "Ambiguous",
+            "sentence": "His statement regarding the contract was rather ambiguous."
+          },
+          "korean": {
+            "word": "모호한",
+            "sentence": "계약에 관한 그의 성명은 다소 모호했습니다."
+          },
+          "russian": {
+            "word": "Двусмысленный",
+            "sentence": "Его заявление относительно контракта было довольно двусмысленным."
+          },
+          "german": {
+            "word": "Mehrdeutig",
+            "sentence": "Seine Erklärung zum Vertrag war ziemlich mehrdeutig."
+          }
         },
         {
           "id": 44,
-          "uzbek": { "word": "Metamorfoza / O'zgarish", "sentence": "Jamiyatda tub o'zgarishlar sodir bo'lmoqda." },
-          "english": { "word": "Metamorphosis", "sentence": "The company underwent a complete metamorphosis over the decade." },
-          "korean": { "word": "대변화", "sentence": "그 회사는 10년 동안 완전한 대변화를 겪었습니다." }
+          "uzbek": {
+            "word": "Metamorfoza / O'zgarish",
+            "sentence": "Jamiyatda tub o'zgarishlar sodir bo'lmoqda."
+          },
+          "english": {
+            "word": "Metamorphosis",
+            "sentence": "The company underwent a complete metamorphosis over the decade."
+          },
+          "korean": {
+            "word": "대변화",
+            "sentence": "그 회사는 10년 동안 완전한 대변화를 겪었습니다."
+          },
+          "russian": {
+            "word": "Метаморфоза",
+            "sentence": "За десятилетие компания претерпела полную метаморфозу."
+          },
+          "german": {
+            "word": "Metamorphose",
+            "sentence": "Das Unternehmen durchlief im Laufe des Jahrzehnts eine vollständige Metamorphose."
+          }
         },
         {
           "id": 45,
-          "uzbek": { "word": "Muqarrar", "sentence": "Ilmiy taraqqiyot muqarrar jarayondir." },
-          "english": { "word": "Inevitable", "sentence": "Change is an inevitable part of human evolution." },
-          "korean": { "word": "피할 수 없는", "sentence": "변화는 인간 진화의 피할 수 없는 부분입니다." }
+          "uzbek": {
+            "word": "Muqarrar",
+            "sentence": "Ilmiy taraqqiyot muqarrar jarayondir."
+          },
+          "english": {
+            "word": "Inevitable",
+            "sentence": "Change is an inevitable part of human evolution."
+          },
+          "korean": {
+            "word": "피할 수 없는",
+            "sentence": "변화는 인간 진화의 피할 수 없는 부분입니다."
+          },
+          "russian": {
+            "word": "Неизбежный",
+            "sentence": "Изменение — неизбежная часть человеческой эволюции."
+          },
+          "german": {
+            "word": "Unvermeidlich",
+            "sentence": "Veränderung ist ein unvermeidlicher Teil der menschlichen Evolution."
+          }
         },
         {
           "id": 46,
-          "uzbek": { "word": "Tug'ma / Asl", "sentence": "Har bir insonda ijodiy qobiliyat tug'ma bo'ladi." },
-          "english": { "word": "Inherent", "sentence": "Risk is an inherent part of any financial investment." },
-          "korean": { "word": "내재된", "sentence": "위험은 모든 금융 투자에 내재된 부분입니다." }
+          "uzbek": {
+            "word": "Tug'ma / Asl",
+            "sentence": "Har bir insonda ijodiy qobiliyat tug'ma bo'ladi."
+          },
+          "english": {
+            "word": "Inherent",
+            "sentence": "Risk is an inherent part of any financial investment."
+          },
+          "korean": {
+            "word": "내재된",
+            "sentence": "위험은 모든 금융 투자에 내재된 부분입니다."
+          },
+          "russian": {
+            "word": "Неотъемлемый",
+            "sentence": "Риск — неотъемлемая часть любых финансовых инвестиций."
+          },
+          "german": {
+            "word": "Inhärent",
+            "sentence": "Risiko ist ein inhärenter Teil jeder Finanzinvestition."
+          }
         },
         {
           "id": 47,
-          "uzbek": { "word": "Dalil / Asos", "sentence": "Fikrimizni tasdiqlovchi yetarlicha dalillar mavjud." },
-          "english": { "word": "Substantiate", "sentence": "She provided enough evidence to substantiate her claims." },
-          "korean": { "word": "입증하다", "sentence": "그는 자신의 주장을 입증할 충분한 증거를 제공했습니다." }
+          "uzbek": {
+            "word": "Dalil / Asos",
+            "sentence": "Fikrimizni tasdiqlovchi yetarlicha dalillar mavjud."
+          },
+          "english": {
+            "word": "Substantiate",
+            "sentence": "She provided enough evidence to substantiate her claims."
+          },
+          "korean": {
+            "word": "입증하다",
+            "sentence": "그는 자신의 주장을 입증할 충분한 증거를 제공했습니다."
+          },
+          "russian": {
+            "word": "Подтвердить",
+            "sentence": "Она предоставила достаточно доказательств, чтобы подтвердить свои утверждения."
+          },
+          "german": {
+            "word": "Belegen",
+            "sentence": "Sie lieferte genügend Beweise, um ihre Behauptungen zu belegen."
+          }
         },
         {
           "id": 48,
-          "uzbek": { "word": "Keng qamrovli", "sentence": "Ushbu tadqiqot keng qamrovli tahlilga asoslangan." },
-          "english": { "word": "Comprehensive", "sentence": "We need a comprehensive approach to solve this crisis." },
-          "korean": { "word": "포괄적인", "sentence": "우리는 이 위기를 해결하기 위해 포괄적인 접근이 필요합니다." }
+          "uzbek": {
+            "word": "Keng qamrovli",
+            "sentence": "Ushbu tadqiqot keng qamrovli tahlilga asoslangan."
+          },
+          "english": {
+            "word": "Comprehensive",
+            "sentence": "We need a comprehensive approach to solve this crisis."
+          },
+          "korean": {
+            "word": "포괄적인",
+            "sentence": "우리는 이 위기를 해결하기 위해 포괄적인 접근이 필요합니다."
+          },
+          "russian": {
+            "word": "Всесторонний",
+            "sentence": "Нам нужен всесторонний подход для решения этого кризиса."
+          },
+          "german": {
+            "word": "Umfassend",
+            "sentence": "Wir brauchen einen umfassenden Ansatz, um diese Krise zu lösen."
+          }
         },
         {
           "id": 49,
-          "uzbek": { "word": "Shubhali / Ishonchsiz", "sentence": "Ushbu ma'lumotning manbasi shubhali." },
-          "english": { "word=":"Dubious", "sentence": "The authenticity of the documents appeared highly dubious." },
-          "korean": { "word": "의심스러운", "sentence": "문서의 진위 여부가 매우 의심스러워 보였습니다." }
+          "uzbek": {
+            "word": "Shubhali / Ishonchsiz",
+            "sentence": "Ushbu ma'lumotning manbasi shubhali."
+          },
+          "english": {
+            "sentence": "The authenticity of the documents appeared highly dubious.",
+            "word": "Dubious"
+          },
+          "korean": {
+            "word": "의심스러운",
+            "sentence": "문서의 진위 여부가 매우 의심스러워 보였습니다."
+          },
+          "russian": {
+            "word": "Сомнительный",
+            "sentence": "Подлинность документов показалась весьма сомнительной."
+          },
+          "german": {
+            "word": "Zweifelhaft",
+            "sentence": "Die Echtheit der Dokumente erschien höchst zweifelhaft."
+          }
         },
         {
           "id": 50,
-          "uzbek": { "word": "Paradigmatika / Qarash", "sentence": "Ilmiy tafakkurda yangi paradigma shakllanmoqda." },
-          "english": { "word": "Paradigm", "sentence": "A new paradigm in technology is transforming our industries." },
-          "korean": { "word": "패러다임", "sentence": "기술 분야의 새로운 패러다임이 우리 산업을 변화시키고 있습니다." }
+          "uzbek": {
+            "word": "Paradigmatika / Qarash",
+            "sentence": "Ilmiy tafakkurda yangi paradigma shakllanmoqda."
+          },
+          "english": {
+            "word": "Paradigm",
+            "sentence": "A new paradigm in technology is transforming our industries."
+          },
+          "korean": {
+            "word": "패러다임",
+            "sentence": "기술 분야의 새로운 패러다임이 우리 산업을 변화시키고 있습니다."
+          },
+          "russian": {
+            "word": "Парадигма",
+            "sentence": "Новая парадигма в технологиях трансформирует наши отрасли."
+          },
+          "german": {
+            "word": "Paradigma",
+            "sentence": "Ein neues Paradigma in der Technologie verwandelt unsere Industrien."
+          }
         }
       ]
     }
